@@ -24,7 +24,7 @@ and array for the checkout counter and customers. Loop through the Array and fin
 and add them at the last of the line.
 - Use the useState hook to get the customer item input and to store the checkout counter with its customer.
 - Use the useEffect hook decrease the customer on the checkout counter when mounted.
-- For the checkout counter and customer Array, I used 2D Array to keep Trace whose customers are in the checkout counter.
+- For the checkout counter and customer Array, I used 2D Array to keep track whose customers are in the checkout counter.
 - To decrement each item by one (1) second use setInterval method.
 
 The `README` on this page covers only the basic instruction for the challenge.
