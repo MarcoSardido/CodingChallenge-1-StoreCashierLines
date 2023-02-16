@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.cashiers {
+  display: flex;
+  gap:5%;
+  padding:10px;
+}
+
+.line {
+  display:flex;
+  flex-direction: column;
+  align-items:center;
+}
+
+.cashier, .person-in-line {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.cashier {
+  width:100px;
+  height: 40px;
+  border:1px solid;
+  border-radius:10px;
+}
+
+.person-in-line {
+  width: 45px;
+  height: 45px;
+  border:1px solid;
+  border-radius:50%;
+  margin: 5%;
+}
