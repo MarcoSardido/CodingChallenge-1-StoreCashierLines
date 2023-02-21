@@ -27,4 +27,4 @@ and add them at the last of the line.
 - For the checkout counter and customer Array, I used 2D Array to keep track whose customers are in the checkout counter.
 - To decrement each item by one (1) second use setInterval method.
 
-The `README` on this page covers only the basic instruction for the challenge.
+The `README` on this page covers only the basic description for the challenge.
