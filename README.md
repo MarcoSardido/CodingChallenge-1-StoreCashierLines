@@ -7,7 +7,7 @@ Coding Challenge#1 - Store Cashier Lines
 </h1>
 
 <p align="center" style="font-size: 1.2rem;">
-Coded in mobile because my laptop is being repaired 😅
+Coded in mobile via codesandbox.io because my laptop is being repaired at the moment 🥲
 </p>
 
 <hr />
